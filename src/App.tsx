@@ -91,12 +91,12 @@ export default function App() {
       {/* --- News Ticker --- */}
       <div className="ticker-wrap z-50">
         <div className="ticker">
-          <div className="ticker-item"><AlertCircle size={14} /> Admissions are now open for academic session 2024-25</div>
+          <div className="ticker-item"><AlertCircle size={14} /> Admissions are now open for academic session 2026-27</div>
           <div className="ticker-item"><Clock size={14} /> School Timings: 7:30 AM to 1:30 PM</div>
           <div className="ticker-item"><Award size={14} /> Annual Sports Month starts from October 15th</div>
           <div className="ticker-item"><AlertCircle size={14} /> Parent-Teacher Meeting scheduled for next Saturday</div>
           {/* Duplicate for infinite effect if needed, but animation handles loop */}
-          <div className="ticker-item"><AlertCircle size={14} /> Admissions are now open for academic session 2024-25</div>
+          <div className="ticker-item"><AlertCircle size={14} /> Admissions are now open for academic session 2026-27</div>
           <div className="ticker-item"><Clock size={14} /> School Timings: 7:30 AM to 1:30 PM</div>
         </div>
       </div>
